@@ -13,6 +13,8 @@ Linear algebra is fundamental in data science for managing and manipulating larg
 
 Statistics is a critical component of data science, allowing practitioners to collect, analyze, interpret, and present data. It provides the tools to understand data distributions, relationships between variables, and inferential techniques to draw conclusions from data.
 
+**Probability theory**
+
 # Data Structures and Algorithms
 
 Organized formats for storing and managing data to enable efficient access and modification. 
@@ -20,4 +22,12 @@ Organized formats for storing and managing data to enable efficient access and m
 Time and Space Complexity
 
 Algorithms
+
+**Search Algorithms**
+
+**Sort Algorithms**
+
+**Insert Algorithms**
+
+**Update Algorithms**
 
