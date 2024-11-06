@@ -35,3 +35,16 @@ Algorithms
 
 SQL (Structured Query Language) is fundamental in data science for efficiently interacting with relational databases. It allows data scientists to retrieve, manipulate, and analyze data stored in structured formats, which is essential for performing data analysis, building models, and generating insights.
 
+# Data Cleaning 
+
+Handling Missing Values
+
+Removing Duplicates
+
+Correcting Data Types
+
+Handling Outliers
+
+Text Cleaning
+
+
