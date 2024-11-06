@@ -47,4 +47,6 @@ Handling Outliers
 
 Text Cleaning
 
+Scaling
+
 
