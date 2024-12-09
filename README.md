@@ -39,13 +39,19 @@ Organized formats for storing and managing data to enable efficient access and m
 
 SQL (Structured Query Language) is fundamental in data science for efficiently interacting with relational databases. It allows data scientists to retrieve, manipulate, and analyze data stored in structured formats, which is essential for performing data analysis, building models, and generating insights.
 
-1. https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql
-2. https://www.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries/pt/more-complex-queries-with-andor
+1. https://www.kaggle.com/learn/intro-to-sql
+2. https://www.youtube.com/watch?v=HXV3zeQKqGY
+3. https://www.youtube.com/watch?v=5OdVJbNCSso
+4. https://www.datacamp.com/cheat-sheet/sql-basics-cheat-sheet
+5. https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql
+6. https://www.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries/pt/more-complex-queries-with-andor
 
 ## Python ##
 
-1. https://cs231n.github.io/python-numpy-tutorial/
-2. https://runestone.academy/ns/books/published/pythonds/index.html
+1. https://www.python.org/
+2. https://cs231n.github.io/python-numpy-tutorial/
+3. https://runestone.academy/ns/books/published/pythonds/index.html
+4. https://www.youtube.com/watch?v=GPVsHOlRBBI&t=12s
 
 ## Data Cleaning ##
 
