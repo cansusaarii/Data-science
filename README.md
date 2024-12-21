@@ -48,6 +48,9 @@ SQL (Structured Query Language) is fundamental in data science for efficiently i
 
 ## Python ##
 
+Books:
+-Python Data Science Handbook
+
 1. https://www.python.org/
 2. https://cs231n.github.io/python-numpy-tutorial/
 3. https://runestone.academy/ns/books/published/pythonds/index.html
