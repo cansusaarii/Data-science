@@ -61,4 +61,8 @@ SQL (Structured Query Language) is fundamental in data science for efficiently i
 4. Handling Outliers
 5. Text Cleaning
 
+## Data Visualization ##
+
+https://bost.ocks.org/mike/algorithms/
+
 
