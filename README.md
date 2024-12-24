@@ -19,6 +19,12 @@ Resources to help me understand Calculus 1 and 2 :
 
 Statistics is a critical component of data science, allowing practitioners to collect, analyze, interpret, and present data. It provides the tools to understand data distributions, relationships between variables, and inferential techniques to draw conclusions from data.
 
+## Four Types of Data Analysis ##
+![Ekran görüntüsü 2024-12-24 122225](https://github.com/user-attachments/assets/9c4ceba3-69b7-4715-bbbe-721b5fb8230e)
+
+
+
+
 **Probability theory**
 
 1. https://seeing-theory.brown.edu/basic-probability/index.html
