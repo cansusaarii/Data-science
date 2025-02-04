@@ -52,6 +52,9 @@ SQL (Structured Query Language) is fundamental in data science for efficiently i
 5. https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql
 6. https://www.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries/pt/more-complex-queries-with-andor
 
+![Ekran görüntüsü 2025-02-04 132924](https://github.com/user-attachments/assets/2133ea6d-9981-4695-b10f-f7714633b262)
+
+
 ## Python ##
 
 Books:
